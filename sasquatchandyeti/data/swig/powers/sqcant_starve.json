@@ -1,0 +1,14 @@
+{
+    "type": "origins:invulnerability",
+    "damage_condition": {
+        "type": "origins:name",
+        "name": "starve"
+    },
+    "name": "Last Supper",
+    "description": "You refuse to die without one last meal. Immunity to starvation."
+}
+
+
+
+
+

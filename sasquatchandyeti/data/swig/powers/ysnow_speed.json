@@ -1,0 +1,35 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.movement_speed",
+        "operation": "addition",
+        "value": 0.03
+    },
+    "tick_rate": 20,
+    "condition": {
+        "type": "origins:or",
+        "conditions": [ 
+    {
+        "type": "origins:on_block",
+        "block_condition": {
+            "type": "origins:in_tag",
+            "tag": "minecraft:snow"
+        }
+    },
+        {
+        "type": "origins:on_block",
+        "block_condition": {
+            "type": "origins:in_tag",
+            "tag": "minecraft:ice"
+        }
+    }
+]
+    },
+  "name": "Creature of the Tundra",
+  "description": "You feel at home around snow and ice, moving faster on such terrain."
+  }
+
+
+
+
+

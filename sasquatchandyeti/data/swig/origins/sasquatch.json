@@ -1,0 +1,24 @@
+{
+    "powers": [
+        "swig:sqforest_speed",
+        "swig:sqswim_speed",
+        "swig:sqlong_arms",
+        "swig:sqbomb",
+        "swig:sqbomb_audio",
+        "swig:sqlunge",
+        "swig:sqlunge_audio",
+        "swig:sqbig_boned",
+        "swig:sqrebreathing",
+        "swig:sqtree_climber",
+        "swig:sqleave_climber",
+        "swig:sqbomb_immune",
+        "swig:sqslowness",
+        "swig:sqexhaustion",
+        "swig:sqcant_starve"
+    ],
+    "icon": "minecraft:suspicious_stew",
+    "order": 10,
+    "impact": 1,
+    "name": "Sasquatch",
+    "description": "A creature of myth and legend coming out of solitude for adventure."
+}

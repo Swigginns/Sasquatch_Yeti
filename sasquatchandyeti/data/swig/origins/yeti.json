@@ -1,0 +1,29 @@
+{
+    "powers": [
+        "swig:ysnow_speed",
+        "swig:ysnow_bomb",
+        "swig:ysnow_bomb_audio",
+        "swig:ysnow_bomb_dot",
+        "swig:sqlunge",
+        "swig:sqswim_speed",
+        "swig:sqlong_arms",
+        "swig:sqlunge_audio",
+        "swig:sqbig_boned",
+        "swig:sqrebreathing",
+        "swig:sqleave_climber",
+        "swig:sqtree_climber",
+        "swig:yice_climbing",
+        "swig:ypowder_jump",
+        "swig:ythickfur",
+        "swig:sqbomb_immune",
+        "swig:yheatstroke",
+        "swig:yheatstroken",
+        "swig:sqexhaustion",
+        "swig:sqcant_starve"
+    ],
+    "icon": "minecraft:snowball",
+    "order": 10,
+    "impact": 1,
+    "name": "Yeti",
+    "description": "A frosty creature of myth and legend coming out of solitude for adventure."
+}

@@ -1,0 +1,32 @@
+{
+    "type": "origins:climbing",
+    "condition": {
+        "type": "origins:block_in_radius",
+        "block_condition": {
+        "type": "origins:in_tag",
+        "tag": "minecraft:ice"
+        },
+    "radius": 1,
+    "shape": "star",
+    "comparison": ">=",
+    "compare_to": 1
+}, 
+"hold_condition": {
+    "type": "origins:block_in_radius",
+    "block_condition": {
+    "type": "origins:in_tag",
+    "tag": "minecraft:ice"
+    },
+"radius": 1,
+"shape": "star",
+"comparison": ">=",
+"compare_to": 1
+},
+  "name": "Ice Climber",
+  "description": "You are able to scale up ice."
+  }
+
+
+
+
+

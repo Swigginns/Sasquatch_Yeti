@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "origins": [
+    "swig:sasquatch",
+    "swig:yeti"
+  ]
+}
