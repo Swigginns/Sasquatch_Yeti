@@ -23,7 +23,7 @@
     ],
     "icon": "minecraft:snowball",
     "order": 10,
-    "impact": 1,
+    "impact": 2,
     "name": "Yeti",
     "description": "A frosty creature of myth and legend coming out of solitude for adventure."
 }

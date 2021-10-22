@@ -7,9 +7,9 @@
         "tag": "minecraft:ice"
         },
     "radius": 1,
-    "shape": "cube",
+    "shape": "star",
     "comparison": ">=",
-    "compare_to": 2
+    "compare_to": 1
 }, 
 "hold_condition": {
     "type": "origins:block_in_radius",
@@ -18,12 +18,12 @@
     "tag": "minecraft:ice"
     },
 "radius": 1,
-"shape": "cube",
+"shape": "star",
 "comparison": ">=",
-"compare_to": 2
+"compare_to": 1
 },
   "name": "Ice Climber",
-  "description": "You are able to scale ice."
+  "description": "You are able to scale up ice."
   }
 
 

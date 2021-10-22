@@ -7,14 +7,26 @@
     },
     "tick_rate": 20,
     "condition": {
+        "type": "origins:or",
+        "conditions": [ 
+    {
         "type": "origins:on_block",
         "block_condition": {
             "type": "origins:in_tag",
             "tag": "minecraft:snow"
         }
     },
+        {
+        "type": "origins:on_block",
+        "block_condition": {
+            "type": "origins:in_tag",
+            "tag": "minecraft:ice"
+        }
+    }
+]
+    },
   "name": "Creature of the Tundra",
-  "description": "You feel at home around snow, moving faster."
+  "description": "You feel at home around snow and ice, moving faster on such terrain."
   }
 
 
