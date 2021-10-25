@@ -1,0 +1,13 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:name",
+        "name": "fall"
+    },
+    "modifier": {
+        "operation": "addition",
+        "value": -10
+    },
+    "name": "Big Boned",
+    "description": "Your tough bones make you take less fall damage."
+}

@@ -1,0 +1,13 @@
+{
+    "type": "origins:self_action_on_kill",
+        "entity_action": {
+        "type": "origins:gain_air",
+        "value": 300
+    },
+    "cooldown": 100,
+    "hud_render":{
+        "should_render": false
+    },
+    "name": "Re-Breathing",
+    "description": "Refill your lungs with air when you kill something underwater."
+}

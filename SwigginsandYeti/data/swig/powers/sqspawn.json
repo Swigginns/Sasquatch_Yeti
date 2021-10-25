@@ -1,0 +1,7 @@
+{
+    "type": "origins:modify_player_spawn",
+    "dimension": "minecraft:overworld",
+    "biome": "minecraft:forest",
+    "name": "Home",
+    "description": "You spawn in the forest."
+}
