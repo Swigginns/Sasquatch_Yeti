@@ -1,6 +1,9 @@
 {
     "type": "origins:climbing",
     "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
         "type": "origins:block_in_radius",
         "block_condition": {
             "type": "origins:in_tag",
@@ -10,8 +13,16 @@
         "shape": "star",
         "comparison": ">=",
         "compare_to": 1
+    },
+    {
+        "type": "origins:collided_horizontally"
+    }
+]
     },
     "hold_condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
         "type": "origins:block_in_radius",
         "block_condition": {
             "type": "origins:in_tag",
@@ -22,7 +33,11 @@
         "comparison": ">=",
         "compare_to": 1
     },
-    "hidden": true,
+    {
+        "type": "origins:collided_horizontally"
+    }
+]
+    },
     "name": "Tree Climber",
     "description": "You can climb trees and leaves."
 }

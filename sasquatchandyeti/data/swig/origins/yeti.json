@@ -1,6 +1,7 @@
 {
     "powers": [
         "swig:ysnow_speed",
+        "swig:yspawn",
         "swig:ysnow_bomb",
         "swig:ysnow_bomb_audio",
         "swig:ysnow_bomb_dot",

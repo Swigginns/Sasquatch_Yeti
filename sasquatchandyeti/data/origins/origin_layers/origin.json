@@ -1,7 +1,7 @@
 {
-  "replace": true,
-  "origins": [
+    "replace": true,
+"origins": [
     "swig:sasquatch",
     "swig:yeti"
-  ]
+]
 }

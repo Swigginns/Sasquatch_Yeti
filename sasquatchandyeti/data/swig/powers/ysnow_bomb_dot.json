@@ -17,8 +17,7 @@
         },
         "cooldown": 12000,
         "hud_render": {
-            "should_render": true,
-            "bar_index": 8
+            "should_render": false
         },
      "hidden": true
     }
