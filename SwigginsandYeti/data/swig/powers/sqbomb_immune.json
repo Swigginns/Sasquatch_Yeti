@@ -1,9 +1,0 @@
-{
-    "type": "origins:invulnerability",
-    "damage_condition": {
-        "type": "origins:name",
-        "name": "indirectMagic"
-    },
-    "name": "Mythical Hide",
-    "description": "Any indirect magical attacks can't harm you."
-}
